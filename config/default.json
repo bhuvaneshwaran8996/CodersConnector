@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://elcucuy:tonyferguson@cluster0.6vblz.mongodb.net/User?retryWrites=true&w=majority",
+    "jwtSecret":"bhuvaneshwaran",
+    "githubID":"171cd06cee8ddb0cdaa8",
+    "githubSecret":"2202e2035e6c27759f0b2799cd1c9e8388f48bdc"
+}
